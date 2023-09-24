@@ -68,3 +68,25 @@ h2{
 .look{
     text-decoration: none;
 }
+
+.thirdground{
+    background-color: #f9f9f9;
+    outline: 1px solid #e4dfdf;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+
+}
+
+.third_ground{
+
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: start;
+
+}
