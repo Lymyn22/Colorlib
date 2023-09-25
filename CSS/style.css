@@ -75,7 +75,7 @@ h2{
     text-align: center;
     padding-top: 80px;
     padding-bottom: 80px;
-
+    /* color: #337ab7; */
 
 }
 
@@ -86,7 +86,29 @@ h2{
 .list{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     text-align: start;
+    color: #555;
+    text-transform: none;
+    margin-right: 350px;
+    font-size: 16px;
+    
+}
 
+.Wordpress{
+    line-height: 60px;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-weight: 500;
+    color: inherit;
+}
+
+.theme{
+    font-size: 20px;
+    margin-bottom: 50px;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-top: 20px;
 }
