@@ -86,12 +86,15 @@ h2{
 .list{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
     text-align: start;
     color: #555;
     text-transform: none;
-    margin-right: 350px;
+    margin-right: 70px;
+    margin-left: 70px;
+    padding-right: 30px;
     font-size: 16px;
+     margin-top: 50px;
     
 }
 
@@ -111,4 +114,8 @@ h2{
     font-weight: 300;
     line-height: 1.4;
     margin-top: 20px;
+}
+
+.section1{
+    text-align: center;
 }
